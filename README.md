@@ -1,2 +1,2 @@
 # java_basic
-java_basic study
+practice java repository

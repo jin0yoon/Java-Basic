@@ -1,4 +1,4 @@
-package variable;
+package IfExample;
 
 import java.util.Scanner;
 

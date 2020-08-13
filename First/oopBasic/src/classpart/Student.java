@@ -1,10 +1,14 @@
 package classpart;
 
+
 public class Student {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public int studentID;
+	public String studentName;
+	public String address;
+	
+	public void showStudentInfo() {
+		System.out.println(studentName + "," + address);
 	}
 
 }

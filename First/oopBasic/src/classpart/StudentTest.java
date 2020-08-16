@@ -17,6 +17,9 @@ public class StudentTest {
 		studentKim.address = "경주";
 		
 		studentKim.showStudentInfo();
+		
+		System.out.println(studentLee);
+		System.out.println(studentKim);
 	}
 
 }

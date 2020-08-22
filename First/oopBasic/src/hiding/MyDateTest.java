@@ -12,6 +12,9 @@ public class MyDateTest {
 		date.setYear(2019);
 		
 		date.showDate();
+		
+		MyDate date2 = new MyDate();
+		date2.setYear(2002);
 	}
 
 }

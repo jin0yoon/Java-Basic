@@ -34,6 +34,16 @@ public class Student {
 		return studentID;
 	}
 
+	public static int getSerialNum() {
+		return serialNum;
+	}
+
+	public static void setSerialNum(int serialNum) {
+		Student.serialNum = serialNum;
+	}
+	
+	
+
 //	public static void main(String[] args) {
 //		
 //		Student studentPark = new Student();

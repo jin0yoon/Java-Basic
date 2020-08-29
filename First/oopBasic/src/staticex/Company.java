@@ -6,7 +6,7 @@ public class Company {
 	
 	private Company() {}
 	
-	public Company getInstance() {
+	public static Company getInstance() {
 		
 		if(instance == null) {
 			instance = new Company();
